@@ -6,7 +6,5 @@ echo 'myfile';
 echo 'csacacaca';
 echo 'yes';
 echo 'gitedit0';
-echo 'another edie';
-echo 'another edie';
-echo 'another edie';echo 'another edie';echo 'another edie';echo 'another edie';
+
 ?>
